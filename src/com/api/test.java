@@ -15,6 +15,7 @@ public class test {
         System.out.println("第一次修改");
         System.out.println("第二次修改");
         System.out.println("hot-fix");
+        System.out.println("hot-fixtest");
 
     }
 }
