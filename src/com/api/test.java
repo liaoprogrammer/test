@@ -12,5 +12,6 @@ public class test {
         System.out.println(calendar);
         int year = calendar.get(Calendar.DAY_OF_YEAR);
         System.out.println(year);
+        System.out.println("第一次修改");
     }
 }
